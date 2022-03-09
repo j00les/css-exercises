@@ -25,3 +25,49 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+/* sahlution -------------- */
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+  padding: 0;
+}
+
+li,a{
+  list-style: none;
+  text-decoration: none;
+  color: black;
+}
+
+.content {
+  margin-top: 100px;
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  padding: 8px;
+}
+
+.footer {
+  display: flex;
+  margin-top: 43vh;
+  background-color: #eee;
+  justify-content: space-between;
+  padding: 5px 10px;
+}
+
+
+
+
+/* sahlution -------------- */
